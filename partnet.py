@@ -1,0 +1,18 @@
+CATEGORIES = {
+    "Airplane": {"id": "02691156", "name": "Airplane", "part_num": 4},
+    "Bag": {"id": "02773838", "name": "Bag", "part_num": 2},
+    "Cap": {"id": "02954340", "name": "Cap", "part_num": 2},
+    "Car": {"id": "02958343", "name": "Car", "part_num": 4},
+    "Chair": {"id": "03001627", "name": "Chair", "part_num": 4},
+    "Earphone": {"id": "03261776", "name": "Earphone", "part_num": 3},
+    "Guitar": {"id": "03467517", "name": "Guitar", "part_num": 3},
+    "Knife": {"id": "03624134", "name": "Knife", "part_num": 2},
+    "Lamp": {"id": "02958343", "name": "Lamp", "part_num": 4},
+    "Laptop": {"id": "03642806", "name": "Laptop", "part_num": 2},
+    "Motorbike": {"id": "03790512", "name": "Motorbike", "part_num": 6},
+    "Mug": {"id": "03797390", "name": "Mug", "part_num": 2},
+    "Pistol": {"id": "03948459", "name": "Pistol", "part_num": 3},
+    "Rocket": {"id": "04099429", "name": "Rocket", "part_num": 3},
+    "Skateboard": {"id": "04225987", "name": "Skateboard", "part_num": 3},
+    "Table": {"id": "04379243", "name": "Table", "part_num": 3},
+}
